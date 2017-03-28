@@ -1,0 +1,2 @@
+# SMTMailPy
+Python Mail Spam
